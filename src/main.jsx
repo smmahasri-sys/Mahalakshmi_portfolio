@@ -30,7 +30,7 @@ const projects = [
     stack: ['Python', 'Pandas', 'NumPy', 'SQL', 'Sentence Transformers'],
     icon: Database,
     tone: 'mint',
-    github: 'https://github.com/'
+    github: 'https://github.com/smmahasri-sys/tech-news-data-pipeline'
   },
   {
     number: '02',
@@ -45,7 +45,7 @@ const projects = [
     stack: ['Python', 'RAG', 'Embeddings', 'Vector Search', 'LLMs'],
     icon: BrainCircuit,
     tone: 'violet',
-    github: 'https://github.com/'
+    github: 'https://github.com/smmahasri-sys/Ai-hr-assitant'
   },
   {
     number: '03',
@@ -187,7 +187,7 @@ function App() {
 
       <section className="contact section-wrap section-block" id="contact">
         <div className="contact-panel"><div className="contact-glow"></div><SectionLabel>06 / GET IN TOUCH</SectionLabel><h2>Let's build something<br/><span className="accent-text">meaningful with data.</span></h2><p>Interested in Data Engineering, ETL, analytics platforms, or AI-powered data applications? I'd be happy to connect.</p>
-          <div className="contact-actions"><a className="button button-primary" href="mailto:smmahasri@gmail.com"><Mail size={16}/> Email me <ArrowUpRight size={16}/></a><a className="button button-secondary" href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><Linkedin size={16}/> LinkedIn <ExternalLink size={14}/></a><a className="button button-secondary" href="https://github.com/" target="_blank" rel="noreferrer"><Github size={16}/> GitHub <ExternalLink size={14}/></a></div>
+          <div className="contact-actions"><a className="button button-primary" href="mailto:smmahasri@gmail.com"><Mail size={16}/> Email me <ArrowUpRight size={16}/></a><a className="button button-secondary" href="https://www.linkedin.com/in/mahalakshmi-s-48a126168/" target="_blank" rel="noreferrer"><Linkedin size={16}/> LinkedIn <ExternalLink size={14}/></a><a className="button button-secondary" href="https://github.com/smmahasri-sys" target="_blank" rel="noreferrer"><Github size={16}/> GitHub <ExternalLink size={14}/></a></div>
           <div className="contact-meta"><span><MapPin size={14}/> Bengaluru, India</span><span><Mail size={14}/> smmahasri@gmail.com</span></div>
         </div>
       </section>
